@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Anders\Documents\Code\Misc\MyFaceWatch\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="4" lineNum="12" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="5" lineNum="16" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="6" lineNum="20" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="6" lineNum="21" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="7" lineNum="25" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="7" lineNum="26" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="8" lineNum="31" pc="268435552" symbol="getApp"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchApp.mc" id="8" lineNum="32" pc="268435564" symbol="getApp"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="10" lineNum="8" pc="268435581" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="10" lineNum="9" pc="268435585" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="10" lineNum="13" pc="268435606" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="11" lineNum="16" pc="268435627" symbol="draw"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="11" lineNum="18" pc="268435631" symbol="draw"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchBackground.mc" id="11" lineNum="19" pc="268435680" symbol="draw"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="13" lineNum="12" pc="268435693" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="13" lineNum="13" pc="268435697" symbol="initialize"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="14" lineNum="17" pc="268435716" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="14" lineNum="18" pc="268435720" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="15" lineNum="24" pc="268435758" symbol="onShow"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="28" pc="268435763" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="30" pc="268435767" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="31" pc="268435779" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="32" pc="268435791" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="33" pc="268435803" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="35" pc="268435815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="36" pc="268435822" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="37" pc="268435839" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="38" pc="268435849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="39" pc="268435874" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="40" pc="268435885" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="43" pc="268435901" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="44" pc="268435929" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="45" pc="268435936" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="48" pc="268435957" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="51" pc="268436022" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="52" pc="268436046" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="53" pc="268436083" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="16" lineNum="56" pc="268436097" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="17" lineNum="62" pc="268436118" symbol="onHide"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="18" lineNum="66" pc="268436123" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\Anders\\Documents\\Code\\Misc\\MyFaceWatch\\source\\MyFaceWatchView.mc" id="19" lineNum="70" pc="268436128" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="30" lineNum="17" pc="268436734" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="19" pc="268436746" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="20" pc="268436770" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="21" pc="268436923" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="22" pc="268437069" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="23" pc="268437232" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="24" pc="268437378" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="25" pc="268437538" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="26" pc="268437698" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="28" pc="268437858" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="21" symbol="ColorRed"/>
+        <entry id="14" method="true" symbol="&lt;globals/MyFaceWatchView/&lt;&gt;setHeartrateDisplay&gt;"/>
+        <entry field="true" id="25" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="20" symbol="ColorBlue"/>
+        <entry field="true" id="28" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="15" method="true" symbol="&lt;globals/MyFaceWatchView/&lt;&gt;retrieveHeartrateText&gt;"/>
+        <entry id="8388772" module="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" symbol="Drawables"/>
+        <entry id="10" object="true" symbol="MyFaceWatchView"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="24" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8389714" symbol="INVALID_HR_SAMPLE"/>
+        <entry field="true" id="27" symbol="ColorWhite"/>
+        <entry id="11" method="true" symbol="&lt;globals/MyFaceWatchView/&lt;&gt;setBatteryDisplay&gt;"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="26" symbol="ColorBlack"/>
+        <entry id="12" method="true" symbol="&lt;globals/MyFaceWatchView/&lt;&gt;setDateDisplay&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="13" method="true" symbol="&lt;globals/MyFaceWatchView/&lt;&gt;setClockDisplay&gt;"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="23" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="19" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="22" symbol="ForegroundColorTitle"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="9" object="true" symbol="MyFaceWatchApp"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435626" name="dictionary" stackId="1" startPc="268435585"/>
+        <entry arg="true" endPc="268435693" name="dc" stackId="1" startPc="268435627"/>
+        <entry arg="true" endPc="268435758" name="dc" stackId="1" startPc="268435716"/>
+        <entry endPc="268436117" name="view" stackId="6" startPc="268435767"/>
+        <entry endPc="268436117" name="hours" stackId="4" startPc="268435767"/>
+        <entry endPc="268436117" name="timeString" stackId="5" startPc="268435767"/>
+        <entry endPc="268436117" name="clockTime" stackId="3" startPc="268435767"/>
+        <entry endPc="268436117" name="timeFormat" stackId="2" startPc="268435767"/>
+        <entry arg="true" endPc="268436118" name="dc" stackId="1" startPc="268435763"/>
+        <entry endPc="268436218" name="battery" stackId="1" startPc="268436137"/>
+        <entry endPc="268436218" name="batteryDisplay" stackId="2" startPc="268436137"/>
+        <entry endPc="268436421" name="date" stackId="2" startPc="268436223"/>
+        <entry endPc="268436421" name="now" stackId="1" startPc="268436223"/>
+        <entry endPc="268436421" name="dateDisplay" stackId="4" startPc="268436223"/>
+        <entry endPc="268436421" name="dateString" stackId="3" startPc="268436223"/>
+        <entry endPc="268436555" name="view" stackId="3" startPc="268436426"/>
+        <entry endPc="268436555" name="timeString" stackId="2" startPc="268436426"/>
+        <entry endPc="268436555" name="clockTime" stackId="1" startPc="268436426"/>
+        <entry endPc="268436643" name="heartRate" stackId="1" startPc="268436560"/>
+        <entry endPc="268436643" name="heartrateDisplay" stackId="2" startPc="268436560"/>
+        <entry endPc="268436733" name="heartrateIterator" stackId="1" startPc="268436648"/>
+        <entry endPc="268436733" name="currentHeartrate" stackId="2" startPc="268436648"/>
+        <entry endPc="268437945" name="rez_cmp_local_custom_drawable_12886026003342025411" stackId="2" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_DateDisplay" stackId="4" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_HeartrateDisplay" stackId="6" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_BatteryDisplay" stackId="3" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_StepCountDisplay" stackId="7" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_MessageCountDisplay" stackId="9" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_StepGoalDisplay" stackId="8" startPc="268436746"/>
+        <entry endPc="268437945" name="rez_cmp_local_text_TimeDisplay" stackId="5" startPc="268436746"/>
+        <entry arg="true" endPc="268437946" name="dc" stackId="1" startPc="268436734"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/MyFaceWatchView" offset="166" parentId="globals" symbolId="MyFaceWatchView" type="class"/>
+        <dataEntry label="globals/Background" offset="301" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/MyFaceWatchApp" offset="356" parentId="globals" symbolId="MyFaceWatchApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="435" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="514" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="553" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="584" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="615" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="654" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="685" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="MyFaceWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="MyFaceWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="MyFaceWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="MyFaceWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="MyFaceWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="MyFaceWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="MyFaceWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MyFaceWatchView/&lt;&gt;setBatteryDisplay&gt;" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MyFaceWatchView/&lt;&gt;setDateDisplay&gt;" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MyFaceWatchView/&lt;&gt;setClockDisplay&gt;" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MyFaceWatchView/&lt;&gt;setHeartrateDisplay&gt;" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/MyFaceWatchView/&lt;&gt;retrieveHeartrateText&gt;" parent="MyFaceWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

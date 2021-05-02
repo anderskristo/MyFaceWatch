@@ -1,0 +1,10 @@
+<layout id="WatchFace">
+	<drawable class="Background" />
+	<label id="BatteryDisplay" text="BAT" x="center" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="DateDisplay" text="00/00/00" x="center" y="65" font="Gfx.FONT_GLANCE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="TimeDisplay" x="center" y="center" font="Gfx.FONT_GLANCE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_ORANGE" />
+	<label id="HeartrateDisplay" text="HEART" x="center" y="180" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="StepCountDisplay" text="STEPC" x="right" y="top" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	<label id="StepGoalDisplay" text="STEPG" x="left" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />	      
+	<label id="MessageCountDisplay" text="MESSAGE" x="right" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+</layout>
